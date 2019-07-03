@@ -6,5 +6,5 @@ class WelcomeController < ApplicationController
        @user[:username] = 'teroron10'
        @user[:location] = 'Tokyo'
        @user[:about] = 'Hello.'
-
+   end
 end
